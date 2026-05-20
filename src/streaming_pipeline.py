@@ -1,7 +1,4 @@
-"""
-Phase 4 - T4.2
-Spark Structured Streaming: يقرأ من Kafka ويصنّف النصوص
-"""
+
 import time
 import re
 from pyspark.sql import SparkSession
